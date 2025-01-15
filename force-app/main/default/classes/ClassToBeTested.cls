@@ -3,10 +3,8 @@ public class ClassToBeTested {
         Integer sum = a + b;
         return sum;
     }
-    //Update test - feature branch 2
-    //New line with feature branch 2
-    //New line with feature branch 3
-    //2nd new line with 2nd commit on feature branch 3
+    //Comment on Dev1 for Copado Updates test - Feature Branch 1
+    //Comment 2 on Dev1 for Copado Update test - Feature Branch 2
     
      public static Integer substractNumbers(Integer a, Integer b) {
         Integer substract = a - b;
